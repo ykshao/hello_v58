@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7656410F-5278-4407-A890-FE3F3140BF46</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7656410F-5278-4407-A890-FE3F3140BF46.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello_v58 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello_v58</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hello_v58 with scheme hello_v58 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>571682539.34858298</real>
+			<key>timeStoppedRecording</key>
+			<real>571682540.97208405</real>
+			<key>title</key>
+			<string>Building project hello_v58 with scheme hello_v58 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7656410F-5278-4407-A890-FE3F3140BF46</string>
+		</dict>
+		<key>F90D1101-2E95-4957-B6FC-AEBDCCDD3A93</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F90D1101-2E95-4957-B6FC-AEBDCCDD3A93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello_v58 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello_v58</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hello_v58 with scheme hello_v58 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>571678624.43738306</real>
+			<key>timeStoppedRecording</key>
+			<real>571678636.99811602</real>
+			<key>title</key>
+			<string>Building project hello_v58 with scheme hello_v58 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F90D1101-2E95-4957-B6FC-AEBDCCDD3A93</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

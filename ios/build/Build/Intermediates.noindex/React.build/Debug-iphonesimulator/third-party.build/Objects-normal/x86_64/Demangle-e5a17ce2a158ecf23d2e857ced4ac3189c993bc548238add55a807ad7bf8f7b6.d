@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/shaoyongkai/Documents/react/hello_v58/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
