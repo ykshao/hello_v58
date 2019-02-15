@@ -5,6 +5,8 @@ react-native react app study demo：
 
 ## 效果截图
 
+http://m.qpic.cn/psb?/V13IJOOu3WKJbc/nI3a0Hj73nq5799mwKVC2aTG7rSkbmbx85xBImc3kCE!/b/dDYBAAAAAAAA&bo=WAU4BAAAAAADB0M!&rf=viewer_4
+
  ![image](http://m.qpic.cn/psb?/V13IJOOu3WKJbc/nI3a0Hj73nq5799mwKVC2aTG7rSkbmbx85xBImc3kCE!/b/dDYBAAAAAAAA&bo=WAU4BAAAAAADB0M!&rf=viewer_4)
 
 ## 使用方式
