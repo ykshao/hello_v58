@@ -7,6 +7,7 @@ import Icon from 'react-native-vector-icons/Ionicons'
 import Home from './components/Home';
 import Dashboard from './components/Dashboard';
 import AnatomyExample from './components/AnatomyExample';
+import Touchables from './components/Demo';
 
 
 /**
@@ -22,9 +23,10 @@ class ChooseSkodaScreen extends Component {
 
   render() {
     return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#ffffff' }}>
-        <Text>ChooseSkodaScreen!</Text>
-      </View>
+      // <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#ffffff' }}>
+      //   <Text>ChooseSkodaScreen!</Text>
+      // </View>
+      <Touchables></Touchables>
     );
   }
 }

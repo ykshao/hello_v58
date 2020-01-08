@@ -23,3 +23,4 @@ Temporary Items
 *.xml
 .vscode
 /.history/
+.history
